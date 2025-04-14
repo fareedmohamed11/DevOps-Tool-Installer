@@ -50,6 +50,9 @@ Run the following command in **PowerShell**:
 
 ```powershell
 Invoke-Expression (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.ps1')
+#📌 For Linux (Bash):
+Run the following command in Terminal:
+bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.sh)
 --- 
 # 📂 Method 2: Install via Cloning the Repository 📂
 
