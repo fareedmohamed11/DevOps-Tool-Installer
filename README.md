@@ -50,6 +50,6 @@ Run the following command in **PowerShell**:
 
 ```powershell
 Invoke-Expression (New-Object Net.WebClient).DownloadString('[https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1](https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1)')
-
+-- 
 # 🖥️ Method 2: Install via Cloning the Repository
 
