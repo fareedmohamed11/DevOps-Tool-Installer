@@ -44,8 +44,11 @@ There are **two ways** to install and use this tool:
 
 ### 🚀 Method 1: Quick Install (Without Cloning)
 
-### 📌 For Linux (Bash):
-***Run the following command in Terminal:
+###📌 For Linux (Bash):
+
+Run the following command in **Terminal**:
+
+bash
 bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.sh)
 ---
 
