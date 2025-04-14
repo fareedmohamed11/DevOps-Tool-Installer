@@ -49,6 +49,7 @@ There are **two ways** to install and use this tool:
 Run the following command in **Terminal**:
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.sh)
+
 ---
 
 ### 📂 Method 2: Install via Cloning the Repository 📂
