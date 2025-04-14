@@ -49,17 +49,16 @@ There are **two ways** to install and use this tool:
 Run the following command in **PowerShell**:
 
 ```powershell
-Invoke-Expression (New-Object Net.WebClient).DownloadString('[https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1](https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1)')
+Invoke-Expression (New-Object Net.WebClient).DownloadString('[https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.ps1](https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/master/install_devops.ps1)')
 
 ---
-
-#### 📂 Method 2: Install via Cloning the Repository 📂
+# 📂 Method 2: Install via Cloning the Repository 📂
 
 ##### 📌 For Linux Users:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/NotHarshhaa/DevOps-Tool-Installer.git](https://github.com/NotHarshhaa/DevOps-Tool-Installer.git)
+    git clone [https://github.com/fareed/DevOps-Tool-Installer.git](https://github.com/fareed/DevOps-Tool-Installer.git)
     cd DevOps-Tool-Installer
     ```
 
@@ -77,7 +76,7 @@ Invoke-Expression (New-Object Net.WebClient).DownloadString('[https://raw.github
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/NotHarshhaa/DevOps-Tool-Installer.git](https://github.com/NotHarshhaa/DevOps-Tool-Installer.git)
+    git clone [https://github.com/fareed/DevOps-Tool-Installer.git](https://github.com/fareed/DevOps-Tool-Installer.git)
     cd DevOps-Tool-Installer
     ```
 
