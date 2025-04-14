@@ -50,6 +50,34 @@ Run the following command in **PowerShell**:
 
 ```powershell
 Invoke-Expression (New-Object Net.WebClient).DownloadString('[https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1](https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/install_devops.ps1)')
--- 
-# 🖥️ Method 2: Install via Cloning the Repository
+
+---
+
+#### 📂 Method 2: Install via Cloning the Repository 📂
+
+##### 📌 For Linux Users:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/NotHarshhaa/DevOps-Tool-Installer.git](https://github.com/NotHarshhaa/DevOps-Tool-Installer.git)
+    cd DevOps-Tool-Installer
+    ```
+
+2.  **Make the script executable:**
+    ```bash
+    chmod +x install_devops_tools.sh
+    ```
+
+3.  **Run the script:**
+    ```bash
+    ./install_devops_tools.sh
+    ```
+
+##### 📌 For Windows Users:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/NotHarshhaa/DevOps-Tool-Installer.git](https://github.com/NotHarshhaa/DevOps-Tool-Installer.git)
+    cd DevOps-Tool-Installer
+    ```
 
