@@ -79,3 +79,18 @@ bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/ma
 
 ```powershell
 .\install_devops_tools.ps1
+
+## 🛠️ How It Works
+
+1️⃣ **Run the script** (either via Quick Install or Cloning method).  
+2️⃣ **Follow the on-screen prompts** to select tools for installation or uninstallation.  
+3️⃣ **The script will automatically install/uninstall** based on your OS.
+
+---
+
+## 🔷 Installation Process by OS
+
+- **Ubuntu/Debian** – Uses `apt` package manager  
+- **CentOS/RHEL** – Uses `yum` package manager  
+- **Fedora** – Uses `dnf` package manager  
+- **Windows** – Uses `choco` package manager
