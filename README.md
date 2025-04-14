@@ -11,3 +11,29 @@
 ## ✅ Always Up-to-Date – Installs the latest versions of all tools.
 --
 # 📌 Supported DevOps Tools
+### ✨ Containerization & Orchestration ✨
+- ✅ Docker 🐳
+- ✅ Kubernetes (kubectl) ☸️
+- ✅ Helm ⎈
+- ✅ Minikube ⚙️
+- ✅ Istio
+- ✅ OpenShift CLI ⚛️
+
+### ⚙️ Infrastructure as Code & Automation ⚙️
+- ✅ Ansible ⚙️
+- ✅ Terraform 🌍
+- ✅ Packer 📦
+- ✅ Vagrant 📦
+
+### 🚀 CI/CD & Monitoring 🚀
+- ✅ Jenkins 🛠️
+- ✅ GitLab Runner 🏃
+- ✅ Prometheus ☑️
+- ✅ Grafana 📊
+
+### ☁️🔒 Cloud & Security 🔒☁️
+- ✅ AWS CLI ☁️
+- ✅ Azure CLI ☁️
+- ✅ Google Cloud SDK ☁️
+- ✅ HashiCorp Vault 🔒
+- ✅ HashiCorp Consul 🌐
