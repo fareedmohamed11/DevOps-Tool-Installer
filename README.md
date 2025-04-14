@@ -38,7 +38,7 @@
 - ✅ HashiCorp Vault 🔒
 - ✅ HashiCorp Consul 🌐
 
-# 🛠️ Installation Guide 🛠️
+### 🛠️ Installation Guide 🛠️
 
 There are **two ways** to install and use this tool:
 
