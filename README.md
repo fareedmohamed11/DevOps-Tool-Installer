@@ -9,3 +9,5 @@
 ## ✅ Interactive Menu – Windows version provides an easy-to-use selection menu.
 ## ✅ Bulk Install & Uninstall – Manage multiple tools in one go.
 ## ✅ Always Up-to-Date – Installs the latest versions of all tools.
+--
+# 📌 Supported DevOps Tools
