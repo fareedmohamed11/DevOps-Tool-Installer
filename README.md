@@ -78,8 +78,7 @@ bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/ma
 2. **Run the script**:
 ```powershell
 .\install_devops_tools.ps1
-
---- 
+-- 
 # 🛠️ How It Works
 
 1️⃣ **Run the script** (either via Quick Install or Cloning method).  
