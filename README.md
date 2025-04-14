@@ -75,4 +75,7 @@ bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/ma
     git clone [https://github.com/fareed/DevOps-Tool-Installer.git](https://github.com/fareed/DevOps-Tool-Installer.git)
     cd DevOps-Tool-Installer
     ```
+2. **Run the script**:
 
+```powershell
+.\install_devops_tools.ps1
