@@ -76,12 +76,11 @@ bash <(curl -s https://raw.githubusercontent.com/fareed/DevOps-Tool-Installer/ma
     cd DevOps-Tool-Installer
     ```
 2. **Run the script**:
-
 ```powershell
 .\install_devops_tools.ps1
 
--- 
-## 🛠️ How It Works
+--- 
+# 🛠️ How It Works
 
 1️⃣ **Run the script** (either via Quick Install or Cloning method).  
 2️⃣ **Follow the on-screen prompts** to select tools for installation or uninstallation.  
